@@ -75,9 +75,10 @@ tax()
 i=count
 while i>0:
     
-# I used for loop which is also called the non-jumping loop
+# I used while loop which is also called the jumping loop
     tax()
 #calling the tax function that how many employees are there
 i=i-1
+
 
 
